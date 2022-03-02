@@ -1,6 +1,6 @@
 <!-- <code>⚪ Community: Metarhia</code> -->
 <code>👷 Speciality: Frontend developer</code><br>
-<code>💡 [Skills](SKILLS.md)</code><br>
+<!-- <code>💡 [Skills](SKILLS.md)</code><br> -->
 <code>🧻 [Projects](https://github.com/AleksandrMihasenko?tab=repositories)</code><br>
 <code>🧑‍💻 Languages: JavaScript, Typescript</code><br>
 <code>📦 Tech stack: Vue.js, Nuxt.js</code><br>
